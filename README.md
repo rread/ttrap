@@ -11,7 +11,7 @@ This has been tested on Mac and Linux. On Linux this uses `aplay` from
 the `alsa-utils` package.
 
 play the sound, 
-Install [go](golang.org) and 
+Install [go](http://golang.org/doc/install) and 
 
 ```
 ttrap$ go build
